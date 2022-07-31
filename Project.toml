@@ -1,6 +1,2 @@
 [compat]
-julia = "1.6.0"
-
-[deps]
-Formatting = "59287772-0a20-5a39-b81b-1366585eb4c0"
-Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
+julia = "1.5.2"
