@@ -93,7 +93,7 @@ version = "6.1.2+6"
 deps = ["ArgParse", "Dates", "Distributed", "EzXML", "FilePathsBase", "HTTP", "HttpCommon", "Inflector", "JSON3", "JuliaFormatter", "Logging", "Markdown", "MbedTLS", "Millboard", "Nettle", "OrderedCollections", "Pkg", "REPL", "Reexport", "Revise", "SHA", "Serialization", "Sockets", "UUIDs", "Unicode", "YAML"]
 git-tree-sha1 = "b957c1fe7ab05955489c32a97f767e0e067fd0f1"
 uuid = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
-version = "4.0.0"
+version = "3.0.0"
 
 [[HTTP]]
 deps = ["Base64", "Dates", "IniFile", "Logging", "MbedTLS", "NetworkOptions", "Sockets", "URIs"]
