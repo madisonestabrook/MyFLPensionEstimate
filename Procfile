@@ -1,1 +1,1 @@
-web: julia --project=myflpensionestimate src/app.jl $PORT
+web: julia --project src/app.jl $PORT
