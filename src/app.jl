@@ -123,5 +123,3 @@ route("/", method = POST) do
     </p>
     """)
 end
-
-up()
